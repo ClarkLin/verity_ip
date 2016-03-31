@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+font-size:11px;
+padding:1px; margin:0px;
+
+}
+.col1{ width:180px;}
+.col2{ width:160px; }
+.col3{ width:240px;}
+
+table.cltable{ border:1px solid #999; padding:0px; margin:0px;}
+table.cltable td{ padding:1px; border:1px solid #999; text-align:left;}
+table.cltable thead th{ background:#000; color: #FFF; font-weight:bold; padding:2px;}
